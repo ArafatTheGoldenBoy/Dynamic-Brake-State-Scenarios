@@ -58,7 +58,7 @@ python test6_motor.py --town Town10HD_Opt --mu 0.4 --apply-tire-friction
 | Repository | Role |
 |---|---|
 | [Dynamic_brake_state_v2](https://github.com/ArafatTheGoldenBoy/Dynamic_brake_state_v2) | Modular thesis codebase — ECU, perception, planning, ABS, telemetry |
-| [Dynamic-Breaking-System](https://github.com/ArafatTheGoldenBoy/Dynamic-Breaking-System) | Earlier perception work: MobileNet-SSD to YOLOv10, traffic light training |
+| [Dynamic-Braking-System](https://github.com/ArafatTheGoldenBoy/Dynamic-Braking-System) | Earlier perception work: MobileNet-SSD to YOLOv10, traffic light training |
 | [Vision-based-perception](https://github.com/ArafatTheGoldenBoy/Vision-based-perception) | Detector experiments (MobileNetV4-SSD) |
 
 ## License
